@@ -4,10 +4,8 @@
 
 * Set up your working directory
 * YOU NEED TO MODIFY THIS PATH WHEN RUNNING THE CODE ON YOUR LOCAL ENVIRONMENT
-cd "C:/Users/langhe/Documents/GitHub/rdm2025/Stata"
-
 * Load the dataset
-use "../data/hh-data.dta", clear
+use "C:\Users\kwizpa\Desktop\Semester 2\RDM\mscepi_rdm\Data\hh-data.dta",clear
 
 * Display structure: variable names, types, and labels
 describe
