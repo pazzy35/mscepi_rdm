@@ -17,6 +17,7 @@ summarize
 
 * View variable labels (metadata)
 codebook
+browse
 
 * Convert 'date_final' from string to date format (assuming format like "January 01, 2023")
 * First, convert the string to a Stata date
